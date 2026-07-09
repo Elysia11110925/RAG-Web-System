@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# ChromaDB
+chroma_db/
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
+
+# Environment
+.env
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Models (too large)
+*.pt
+*.bin
+*.safetensors
+doc_metadata.json
+uploads/*
+!uploads/.gitkeep
