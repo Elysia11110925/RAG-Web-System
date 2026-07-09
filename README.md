@@ -58,7 +58,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/Elysia11110925/RAG-QA.git
+git clone https://github.com/Elysia11110925/RAG-Web-System.git
 cd RAG-QA
 
 # 2. 安装依赖
